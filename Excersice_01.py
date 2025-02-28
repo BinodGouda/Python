@@ -15,14 +15,3 @@ elif(operator == '*'):
 elif(operator == '/'):
     sum = num1 / num2
     print(f"Sum of {num1} and {num2} = {sum}")
-elif(operator == '//'):
-    sum = num1 // num2  # floor division
-    print(f"Sum of {num1} and {num2} = {sum}")
-elif(operator == '%'):
-    sum = num1 % num2
-    print(f"Sum of {num1} and {num2} = {sum}")
-elif(operator == '**'):
-    sum = num1 ** num2
-    print(f"Sum of {num1} and {num2} = {sum}")
-else:
-    print("Enter Valid Operator")
