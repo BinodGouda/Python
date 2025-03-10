@@ -13,6 +13,6 @@ elif(timestamp >= 18 and timestamp < 20):
 
 elif(timestamp >= 20 and timestamp < 24):
     print("Good Night")
-
+    
 else:
     print("Invalid Time")
